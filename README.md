@@ -3,7 +3,7 @@
 **Senior Full-Stack Engineer · AI-Native Development · SaaS & Distributed Systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-roderickrocamora-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/roderickrocamora/)
-[![GitHub](https://img.shields.io/badge/GitHub-rodroc-181717?style=flat&logo=github)](https://github.com/rodroc/cv)
+[![GitHub](https://img.shields.io/badge/GitHub-rodroc-181717?style=flat&logo=github)](https://github.com/rodroc?tab=repositories)
 
 ---
 
@@ -39,8 +39,8 @@ AI-native senior full-stack engineer with deep production experience in Node.js,
 
 | Repo | Stack |
 | :--- | :--- |
-| [React / Node / PostgreSQL / Docker](#) | React, Node.js, PostgreSQL, Docker |
-| [Node.js RESTful API](#) | Node.js, Express, REST |
-| [TypeScript](#) | TypeScript |
-| [React / TypeScript + Symfony](#) | React, TypeScript, Symfony |
-| [MongoDB / Laravel](#) | MongoDB, Laravel |
+| [React / Node.js / PostgreSQL / Docker](https://github.com/rodroc/lodging) | React, Node.js, PostgreSQL, Docker |
+| [Node.js RESTful API](https://github.com/rodroc/secure_restful_api) | Node.js, RESTful API, Docker |
+| [TypeScript / Node.js](https://github.com/rodroc/resident-import) | TypeScript, Node.js |
+| [React / TypeScript + Symfony](https://github.com/rodroc/react-notes) | React, TypeScript, Symfony |
+| [MongoDB / Laravel](https://github.com/rodroc/laravel.mongo) | MongoDB, Laravel, PHP |
